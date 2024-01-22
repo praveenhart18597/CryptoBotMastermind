@@ -1,0 +1,9 @@
+ccxt  # For Binance API
+tweepy # For Twitter API
+pandas # For data manipulation
+numpy # For numerical operations
+SQLAlchemy # For database interaction
+python-dotenv # For environment variable management
+matplotlib # For data visualization
+scikit-learn # For machine learning models 
+tensorflow # For deep learning models 
